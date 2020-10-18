@@ -7,7 +7,11 @@ Objective:Our chat bot is about "Knowing the details of hosipital".
 
 Our chat bot consists of..
 1.The bot will greet by welcoming the various doctors with their names,degrees and their profession.
+
 2.This bot is mainly helpful to have an appointment to the doctor.
+
 3.To know the validity check of OP.
+
 4.To know whether doctor is in work mode or not.
+
 
