@@ -13,11 +13,9 @@ Our chat bot consists of..
 
 3.To know whether doctor is in work mode or not.
 
-Program run file:https://drive.google.com/file/d/13pBh1WqFqWUd55kBxKrfT0C2mWAjvKzo/view?usp=drivesdk
+Program run file:https://drive.google.com/file/d/13pBh1WqFqWUd55kBxKrfT0C2mWAjvKzo/view?usp=drives
 
-Explanation of our program by team members:
-
-Block Diagram:
+Block Diagram:https://drive.google.com/file/d/1DhL2kxVvu9gvQMC0A7jkc0DYbAwF6thY/view?usp=drivesdk
 
 
 Reference link:
