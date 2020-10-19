@@ -13,4 +13,18 @@ Our chat bot consists of..
 
 3.To know whether doctor is in work mode or not.
 
+Program run file:
+
+Explanation of our program by team members:
+
+Block Diagram:
+
+
+Reference link:
+1.https://www.geeksforgeeks.org/get-current-date-and-time-using-python/    To get an idea about current date and time.
+
+2.https://www.tutorialsteacher.com/python/error-types-in-python        To have a brief explanation about errors;
+
+3.https://www.youtube.com/watch?v=QPcyk4hWU-8&feature=youtu.be        To get an idea about bot.
+
 
